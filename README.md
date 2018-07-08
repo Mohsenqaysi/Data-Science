@@ -6,7 +6,7 @@ topics keyword:
 ```
 key_words = ['Donald Trump','FBI']
 ```
-To view the whole code please downlaod the project and see this file:
+To view the whole code please download the project and see this file:
 ```
 Mohsen_Qaysi_12254676_Final.html
 ```
