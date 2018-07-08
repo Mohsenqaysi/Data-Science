@@ -17,3 +17,8 @@ Mohsen_Qaysi_12254676_Final.html
 http://mlg.ucd.ie/modules/COMP41680/archive/index.html
 ```
 The project used "Text Classification" to analysis and tran machine leaning moudles to predict the articles titles. The predictions of the two classification models than compred to see which one is better in terms of corrections to the original articles by evaluating the results.
+
+### See file at this path:
+```
+Mohsen_Qaysi_12254676_part2.html
+```
